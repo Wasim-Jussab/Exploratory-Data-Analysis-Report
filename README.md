@@ -75,5 +75,5 @@ jupyter notebook
 If you'd like to contribute to this project or report any issues, please feel free to open a pull request or submit an issue on the GitHub repository.
 
 ---
-Created by Wasim Jussab(https://github.com/wasim-jussab)
+Created by [Wasim Jussab](https://github.com/wasim-jussab)
 ```
